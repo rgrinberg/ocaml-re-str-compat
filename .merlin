@@ -1,0 +1,5 @@
+B _build/lib
+S lib
+PKG ounit
+PKG re.str
+PKG str

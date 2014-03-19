@@ -1,0 +1,12 @@
+OASISFormat: 0.4
+Name:        re_str_tests
+Version:     0.0.1
+Synopsis:    Test compatiblity between ocaml-re and str
+Authors:     Rudi Grinberg
+License:     LGPL-2.1 with OCaml linking exception
+
+Executable re_compat
+  Path:       lib
+  BuildTools: ocamlbuild
+  MainIs:     re_compat.ml
+  BuildDepends: re.str, str, oUnit
