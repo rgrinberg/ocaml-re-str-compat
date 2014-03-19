@@ -1,0 +1,7 @@
+/setup.ml
+/myocamlbuild.ml
+/re_compat.byte
+/setup.data
+/setup.log
+/_build/
+/_tags
